@@ -7,7 +7,7 @@ This repo contains the annotated data and code for our paper [eGen: An Enhanced 
 - We aim to tackle COQE task: given a sentence, we predict all comparative quads `subject (\textit{sub}), object (\textit{obj}), comparative aspect (\textit{ca}), comparative opinion (\textit{co}), and comparative preference (\textit{cp})`
 
 ## Data
-- We use two three datasets, Camera-COQE, Car-COQE and Ele-COQE:
+- We use three datasets, Camera-COQE, Car-COQE and Ele-COQE:
 
 - **Camera-COQE**: On basis of the Camera domain corpus released by Kessler and Kuhn (2014), we completed the annotation of Comparative Opinion and Comparative Preference for 1705 comparative sentences, and introducing 1599 non-comparative sentences.
   
